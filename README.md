@@ -1,5 +1,5 @@
 RIVER AND LAKE SYNCHRONY IN THE CANADIAN PRAIRIES
-Reproduction files for Figures 3 and 4
+Reproduction files for figures
 
 Extract the complete ZIP into one directory. Open a terminal in the directory
 containing run_all.R. In R, install ggplot2 (>= 3.5.0) and ragg once. Then run:
